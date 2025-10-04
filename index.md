@@ -11,3 +11,7 @@ Add headers to index.md to this file. 10/2025.
 ``` javascript
 var myVar = "Hello, team!";
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
